@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Tempest",
+  "base_artist": "Morfonica",
+  "createdAt": "2026-02-24T12:35:56.999876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/01_Tempest_Low.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Tempest",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/02_The_Tempest_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Tempest",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/03_The_Tempest_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "Turbo Knight feat. Vosto & Inexedra",
+      "has_synced": false,
+      "path": "select/04_Tempest_Turbo_Knight_feat._Vosto_&_Inexedra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tempest (feat. Vosto & Inexedra)",
+      "artist": "Turbo Knight",
+      "has_synced": false,
+      "path": "select/05_Tempest_(feat._Vosto_&_Inexedra)_Turbo_Knight.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "An Enemy Led the Tempest",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/06_An_Enemy_Led_the_Tempest_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/07_Tempest_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Tempest (the Siren's Song, The Banshee's Cry)",
+      "artist": "The Agonist",
+      "has_synced": false,
+      "path": "select/08_The_Tempest_(the_Siren's_Song,_The_Banshee's_Cry)_The_Agonist.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "SOHN",
+      "has_synced": true,
+      "path": "select/09_Tempest_SOHN.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/10_Tempest_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tempest",
+      "artist": "Pendulum",
+      "has_synced": true,
+      "path": "select/11_Tempest_Pendulum.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Tempest (The Siren's Song, The Banshee's Cry)",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/12_The_Tempest_(The_Siren's_Song,_The_Banshee's_Cry)_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparks of the Tempest",
+      "artist": "Kansas",
+      "has_synced": false,
+      "path": "select/13_Sparks_of_the_Tempest_Kansas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tempest",
+      "artist": "Morfonica",
+      "has_synced": false,
+      "path": "select/pl_01_Tempest_Morfonica.txt"
+    }
+  ]
+}
